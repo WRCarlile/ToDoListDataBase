@@ -37,4 +37,4 @@ _To contact, leave a comment on Github._
 
 *MIT License*
 
-Copyright (c) 2016 **_Arlen Burton_** and s**_Paul Hess_**
+Copyright (c) 2016 **_Ryan Carlile_**
